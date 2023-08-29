@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Home page -->
+  <url>
+    <loc>http://gulfstaroverseas.com/</loc>
+  </url>
+
+  <!-- About Us page -->
+  <url>
+    <loc>http://gulfstaroverseas.com/aboutus</loc>
+  </url>
+
+  <!-- Contact Us page -->
+  <url>
+    <loc>http://gulfstaroverseas.com/contactus</loc>
+  </url>
+
+  <!-- Services page -->
+  <url>
+    <loc>http://gulfstaroverseas.com/Recrument</loc>
+  </url>
+
+  <!-- Recruitment Process page -->
+  <url>
+    <loc>http://gulfstaroverseas.com/process</loc>
+  </url>
+
+  <!-- News page -->
+  <url>
+    <loc>http://gulfstaroverseas.com/news</loc>
+  </url>
+
+  <!-- Blog Grid page -->
+  <url>
+    <loc>http://gulfstaroverseas.com/advertisement</loc>
+  </url>
+
+  <!-- Blog Single (Dynamic route for individual blog posts) -->
+  <!-- Note: Replace :id with an actual blog post ID -->
+
+
+  <!-- Documents page -->
+  <url>
+    <loc>http://gulfstaroverseas.com/faqfullpage</loc>
+  </url>
+
+  
+
+</urlset>

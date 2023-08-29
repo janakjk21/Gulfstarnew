@@ -1,0 +1,3 @@
+User-agent: *
+
+Allow: /public/           # Allow crawling of the /public/ directory
