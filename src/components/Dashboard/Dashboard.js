@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
-import Content1 from './Content1';
+
 import '../../Assets/css/app-modern.min.css';
 import NavSidebar from './NavSidebar';
 import { onAuthStateChanged } from 'firebase/auth';

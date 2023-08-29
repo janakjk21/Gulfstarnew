@@ -1,7 +1,7 @@
 import React from 'react';
 import Nav from '../Nav';
 import Pagetitle from '../Pagetitle';
-import ServiceDetails from './ServiceDetails.js';
+
 import Footer from '../Footer';
 import Applyprocess from './Applyprocess';
 
@@ -16,6 +16,7 @@ export default function Consulting({ Title }) {
 			{/* <ServiceDetails Title={Title}></ServiceDetails>
 			<Footer></Footer> */}
 			<Applyprocess></Applyprocess>
+			<Footer></Footer>
 		</>
 	);
 }

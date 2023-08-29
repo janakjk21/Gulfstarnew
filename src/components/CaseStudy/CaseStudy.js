@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link, useParams } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import CaseStudyimg from '../../Assets/images/case-study/case-study_01.jpg';
 import Nav from '../Nav';
 import Pagetitle from '../Pagetitle';

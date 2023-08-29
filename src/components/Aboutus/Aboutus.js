@@ -2,7 +2,6 @@ import React from 'react';
 import Nav from '../Nav';
 import Feature_Section from './Feature_Sectionaboutus';
 
-import Team_Title_section from '../Home/Team_Title_section';
 import Pagetitle from '../Pagetitle';
 import Fullaboutus from './Fullaboutus';
 import Footer from '../Footer';

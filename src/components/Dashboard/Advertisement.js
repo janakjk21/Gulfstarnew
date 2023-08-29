@@ -14,7 +14,6 @@ import { db, storage } from '../../fire';
 import { getDownloadURL, ref, uploadBytesResumable } from 'firebase/storage';
 import { Alert } from 'react-bootstrap';
 import { BsThreeDotsVertical } from 'react-icons/bs';
-import Nav from '../Nav';
 
 function Advertisment() {
 	const [blogPost, setBlogPost] = useState({
