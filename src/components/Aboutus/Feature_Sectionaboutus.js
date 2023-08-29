@@ -1,6 +1,5 @@
 import React, { useRef, useEffect, useState } from 'react';
 import aboutuus1 from '../../Assets/images/1-min-min_2.webp';
-import aboutuus2 from '../../Assets/images/about/2.png';
 import { FaUser, FaThumbsUp, FaTrophy, FaBriefcase } from 'react-icons/fa';
 import CountUp from 'react-countup';
 export default function Feature_Sectionaboutus() {

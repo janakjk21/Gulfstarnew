@@ -98,4 +98,12 @@ export const router = createBrowserRouter([
 			</Suspense>
 		),
 	},
+	{
+		path: '*',
+		element: (
+			<Suspense fallback={<LoadingSpinner />}>
+				<Notfound />
+			</Suspense>
+		),
+	},
 ]);
