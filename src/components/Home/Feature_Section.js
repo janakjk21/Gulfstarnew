@@ -92,7 +92,7 @@ export default function Feature_Section() {
 								</div>
 								<CountUp
 									start={shouldStartCountUp[0] ? 0 : null}
-									end={1500}
+									end={4000}
 									duration={3}
 									delay={0}>
 									{({ countUpRef }) => (
@@ -113,7 +113,7 @@ export default function Feature_Section() {
 								</div>
 								<CountUp
 									start={shouldStartCountUp[1] ? 0 : null}
-									end={2000}
+									end={8000}
 									duration={3}
 									delay={0}>
 									{({ countUpRef }) => (

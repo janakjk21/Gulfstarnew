@@ -39,11 +39,7 @@ export default function Fullaboutus() {
 			post: 'Manager',
 			imageurl: team5WebP,
 		},
-		{
-			name: 'Bikash Bahadur Pariyar',
-			post: 'Marketing Officer',
-			imageurl: team6WebP,
-		},
+
 		{
 			name: 'Urmila Thing',
 			post: 'Admin Officer',
